@@ -2,9 +2,14 @@
 
 This app opens the phone camera and detect faces
 
+# Todos
+- [ ] Track in a effective way the square over the face
+- [ ] try to apply a more smooth animation
+
+
 # Tech applied
 
-[react-native-vision-camera]](https://mrousavy.com/react-native-vision-camera/docs/guides)
+[react-native-vision-camera](https://mrousavy.com/react-native-vision-camera/docs/guides)
 [vision-camera-face-detection](https://github.com/rodgomesc/vision-camera-face-detector)
 
 # Instructions
