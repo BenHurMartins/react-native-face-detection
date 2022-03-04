@@ -9,8 +9,8 @@ This app opens the phone camera and detect faces
 
 # Tech applied
 
-[react-native-vision-camera](https://mrousavy.com/react-native-vision-camera/docs/guides)
-[vision-camera-face-detection](https://github.com/rodgomesc/vision-camera-face-detector)
+- [react-native-vision-camera](https://mrousavy.com/react-native-vision-camera/docs/guides)
+- [vision-camera-face-detection](https://github.com/rodgomesc/vision-camera-face-detector)
 
 # Instructions
 
