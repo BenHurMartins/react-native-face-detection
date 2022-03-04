@@ -3,9 +3,9 @@
 This app opens the phone camera and detect faces
 
 # Todos
+
 - [ ] Track in a effective way the square over the face
 - [ ] try to apply a more smooth animation
-
 
 # Tech applied
 
@@ -34,3 +34,5 @@ npm start
 # \*
 
 This project only runs on physical devices.
+
+There are some few extra steps to setup this project on android that can be found on [react-native-vision-camera](https://mrousavy.com/react-native-vision-camera/docs/guides) library
