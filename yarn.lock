@@ -5387,7 +5387,7 @@
     "lodash" "^4.17.21"
     "prop-types" "^15.7.2"
 
-"react-native-reanimated@^2.4.1":
+"react-native-reanimated@^2.4.1", "react-native-reanimated@>=2.1.0":
   "integrity" "sha512-kvf7ylGlwa5hxMQ+wpPFjQrI2c6eexf53/xRo+dvXBNefGmSYaYR5sFtD0XMMzIPQlkCB9tJ0Pu9+2WCQUY7Cg=="
   "resolved" "https://registry.npmjs.org/react-native-reanimated/-/react-native-reanimated-2.4.1.tgz"
   "version" "2.4.1"
@@ -5408,7 +5408,7 @@
     "react-freeze" "^1.0.0"
     "warn-once" "^0.1.0"
 
-"react-native-vision-camera@^2.12.1", "react-native-vision-camera@>= 2":
+"react-native-vision-camera@^2.12.1", "react-native-vision-camera@>= 2", "react-native-vision-camera@>=2.0.0":
   "integrity" "sha512-ZqSlXJkvvgQB2Ht7ZsRNOOuEruqK6jDtN+ybwcPmoFSq9hX4QZJz3+KJbmZP4VDTSb7O0v5sXSyUn8NEnfbekA=="
   "resolved" "https://registry.npmjs.org/react-native-vision-camera/-/react-native-vision-camera-2.12.1.tgz"
   "version" "2.12.1"
@@ -6595,6 +6595,10 @@
 "vision-camera-face-detector@rodgomesc/vision-camera-face-detector#master":
   "resolved" "git+ssh://git@github.com/rodgomesc/vision-camera-face-detector.git#acbc0b866c05e8739ce58087bc66179adb225322"
   "version" "0.1.8"
+
+"vision-camera-resize-plugin@github:mrousavy/vision-camera-resize-plugin#main":
+  "resolved" "git+ssh://git@github.com/mrousavy/vision-camera-resize-plugin.git#1b755416c5dd8d0057412215c7547790d9c58caf"
+  "version" "0.1.1"
 
 "vlq@^1.0.0":
   "integrity" "sha512-gQpnTgkubC6hQgdIcRdYGDSDc+SaujOdyesZQMv6JlfQee/9Mp0Qhnys6WxDWvQnL5WZdT7o2Ul187aSt0Rq+w=="
